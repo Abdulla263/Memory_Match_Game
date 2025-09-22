@@ -28,8 +28,9 @@ Flip the cards, find the matching pairs, and test your memory.
  Track number of moves  
  Different difficulty levels (4x4, 6x6, etc.)  
 
+***
 
- ###Steps
+ ### Steps
  Step 1. Make array of cards, randomizing them every game.
  Step 2. Use event listener to flip cards, if cards match they will be displayed. If not, they will be flipped back over.
  Step 3. If all cards are matched the game ends (gameOver becomes true), with the option to reset the game and changing the order of the cards using a reset button.
