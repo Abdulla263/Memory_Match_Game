@@ -1,0 +1,54 @@
+body {
+background-color: darkslategrey;
+}
+
+h4{
+
+  text-align: center;
+  font-size: 48px;
+}
+
+.btn-container{
+justify-content: center;
+text-align: center;
+
+
+}
+
+.button-class{
+  color: green;
+  padding: 10px 20px;
+  font-size: 1.5rem;
+  margin: 0 auto;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+  transition: 0.3s;
+  font-size: 3vmin; padding: 2vmin 4vmin;
+
+}
+p{font-size: 35px;
+text-align: center;}
+
+input{
+justify-content: center;
+
+
+}
+
+label{
+  margin: auto;
+  display: flex;
+  font-weight: bold;
+  text-align: center;
+}
+
+#easy{
+color: green;
+}
+#medium{
+
+  color:blue;
+}
+
+#hard{color: red;}
